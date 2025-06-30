@@ -1,21 +1,69 @@
-# Diamond-Smash💎🎾
+# 🎾 Diamond-Smash 💎
 
-Diamond-Smash est un jeu de tennis simple développé en C++ avec SFML.
+**Diamond-Smash** is a simple 2D tennis game developed in C++ using the SFML library.
 
-## Fonctionnalités
-- Joueur contre une IA simple.
-- Graphismes 2D stylisés.
-- Utilise la bibliothèque SFML.
+⚠️ **This project is for educational and entertainment purposes only.**
 
-## Instructions
+---
 
-### Prérequis
-- [SFML](https://www.sfml-dev.org/download.php) (Graphics, Window, System)
-- Un compilateur C++ (g++ ou clang)
+## ✨ Features
 
-### Compilation
-Clonez le projet et utilisez `make` pour compiler :
-```bash
-git clone https://github.com/ton-pseudo/Diamond-Smash.git
-cd Diamond-Smash
+- 🎮 Player versus simple AI opponent.  
+- 🖼️ Stylized 2D graphics.  
+- 🛠️ Built with SFML (Graphics, Window, System).  
+- 🏆 Score tracking and game reset functionality.
+
+---
+
+## 🛠️ Prerequisites
+
+- **C++ compiler** (g++ or clang recommended)  
+- [SFML](https://www.sfml-dev.org/download.php) libraries: Graphics, Window, System  
+
+---
+
+## ⚙️ Compilation & Running
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Devilman24/Diamond-Smash.git
+   cd Diamond-Smash
+   ./Diamond_Smash
+
+---   
+Compile with make (makefile included):
+
 make
+
+Run the game:
+
+    ./Diamond-Smash
+
+---
+## 🚀 Gameplay
+
+    Use W and S keys to move your paddle up and down.
+
+    Play against a simple AI opponent.
+
+    First to 5 points wins the match.
+
+    Press Space to restart after a game ends.
+---
+## 🤝 Contributions
+
+Contributions to enhance this project are welcome! 🎉
+
+* Submit a **pull request**.
+* Open an **issue** on this GitHub repository.
+---
+## 📜 License
+
+**Important**: Use this tool only in controlled environments or with explicit permission from the intended users.
+
+[DEVILMAN](LICENSE)
+
+---
+💻 Enjoy smashing those diamonds! 🎾
+
