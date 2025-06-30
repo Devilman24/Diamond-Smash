@@ -71,5 +71,5 @@ Contributions to enhance this project are welcome! 🎉
 💻 Enjoy smashing those diamonds! 🎾
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=186&color=gradient&text=💻%20Happy%20Coding!&fontAlignY=47&fontAlign=50&section=footer" alt="Footer"/>
 </p>
