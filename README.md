@@ -1,4 +1,7 @@
-# 🎾 Diamond-Smash 💎
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=🎾%20Diamond-Smash%20💎" alt="Footer"/>
+</p>
 
 **Diamond-Smash** is a simple 2D tennis game developed in C++ using the SFML library.
 
@@ -67,3 +70,6 @@ Contributions to enhance this project are welcome! 🎉
 ---
 💻 Enjoy smashing those diamonds! 🎾
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
